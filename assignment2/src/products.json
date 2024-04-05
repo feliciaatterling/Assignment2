@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "Sony WH-1000XM4",
+    "price": 399,
+    "description": "The perfect headphones for maximum focus, either if you want to blast music or just block out your friends talk.",
+    "category": "Headphones",
+    "image": "./Images/headphones.jpg",
+    "rating": { "rate": 4.6, "count": 120 }
+  },
+  {
+    "id": 2,
+    "title": "Apple MacBook Pro",
+    "price": 1.599,
+    "description": "Apple 2023 MacBook Pro Laptop M3 chip with 8‑core CPU, 10‑core GPU: 14.2-inch Liquid Retina XDR Display, 8GB",
+    "category": "Computers & Accesories",
+    "image": "",
+    "rating": { "rate": 4.1, "count": 259 }
+  },
+  {
+    "id": 3,
+    "title": "Screen",
+    "price": 55.99,
+    "description": "",
+    "category": "Computers & Accesories",
+    "image": "",
+    "rating": { "rate": 4.7, "count": 500 }
+  },
+  {
+    "id": 4,
+    "title": "Mouse",
+    "price": 15.99,
+    "description": "",
+    "category": "Computers & Accesories",
+    "image": "",
+    "rating": { "rate": 2.1, "count": 430 }
+  },
+  {
+    "id": 5,
+    "title": "Programming Book?",
+    "price": 20,
+    "description": "",
+    "category": "",
+    "image": "Desk",
+    "rating": { "rate": 4.6, "count": 400 }
+  },
+  {
+    "id": 6,
+    "title": "Cozy nerdy Hoody",
+    "price": 168,
+    "description": "",
+    "category": "Clothing",
+    "image": "./Images/hoodie.jpg",
+    "rating": { "rate": 3.9, "count": 70 }
+  },
+  {
+    "id": 7,
+    "title": "Charger",
+    "price": 9.99,
+    "description": "",
+    "category": "Computers & Accesories",
+    "image": "",
+    "rating": { "rate": 3, "count": 400 }
+  },
+  {
+    "id": 8,
+    "title": "iPad",
+    "price": 700.99,
+    "description": "",
+    "category": "Computers & Accesories",
+    "image": "",
+    "rating": { "rate": 1.9, "count": 100 }
+  },
+  {
+    "id": 9,
+    "title": "Water bottle",
+    "price": 12,
+    "description": "",
+    "category": "Desk",
+    "image": "",
+    "rating": { "rate": 3.3, "count": 203 }
+  },
+  {
+    "id": 10,
+    "title": "LED lights",
+    "price": 7.99,
+    "description": "",
+    "category": "Desk",
+    "image": "",
+    "rating": { "rate": 2.9, "count": 470 }
+  },
+  {
+    "id": 11,
+    "title": "Coffee Mug",
+    "price": 4.99,
+    "description": "",
+    "category": "Desk",
+    "image": "",
+    "rating": { "rate": 3.9, "count": 170 }
+  }
+]
