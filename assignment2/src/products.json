@@ -11,10 +11,10 @@
   {
     "id": 2,
     "title": "Apple MacBook Pro",
-    "price": 1.599,
+    "price": 1599,
     "description": "Apple 2023 MacBook Pro Laptop M3 chip with 8‑core CPU, 10‑core GPU: 14.2-inch Liquid Retina XDR Display, 8GB",
     "category": "Computers & Accesories",
-    "image": "",
+    "image": "./Images/macbook.jpg",
     "rating": { "rate": 4.1, "count": 259 }
   },
   {
@@ -23,16 +23,16 @@
     "price": 55.99,
     "description": "",
     "category": "Computers & Accesories",
-    "image": "",
+    "image": "./Images/monitor(1).jpg",
     "rating": { "rate": 4.7, "count": 500 }
   },
   {
     "id": 4,
-    "title": "Mouse",
+    "title": "Mouse and Keyboard",
     "price": 15.99,
     "description": "",
     "category": "Computers & Accesories",
-    "image": "",
+    "image": "./Images/mouseandkey.jpg",
     "rating": { "rate": 2.1, "count": 430 }
   },
   {
@@ -41,7 +41,7 @@
     "price": 20,
     "description": "",
     "category": "",
-    "image": "Desk",
+    "image": "./Images/book.jpg",
     "rating": { "rate": 4.6, "count": 400 }
   },
   {
@@ -50,7 +50,7 @@
     "price": 168,
     "description": "",
     "category": "Clothing",
-    "image": "./Images/hoodie.jpg",
+    "image": "./Images/hoodie.jpeg",
     "rating": { "rate": 3.9, "count": 70 }
   },
   {
@@ -59,7 +59,7 @@
     "price": 9.99,
     "description": "",
     "category": "Computers & Accesories",
-    "image": "",
+    "image": "./Images/charger(1).jpg",
     "rating": { "rate": 3, "count": 400 }
   },
   {
@@ -68,7 +68,7 @@
     "price": 700.99,
     "description": "",
     "category": "Computers & Accesories",
-    "image": "",
+    "image": "./Images/ipad.jpg",
     "rating": { "rate": 1.9, "count": 100 }
   },
   {
@@ -77,7 +77,7 @@
     "price": 12,
     "description": "",
     "category": "Desk",
-    "image": "",
+    "image": "./Images/waterbottle.jpg",
     "rating": { "rate": 3.3, "count": 203 }
   },
   {
@@ -86,7 +86,7 @@
     "price": 7.99,
     "description": "",
     "category": "Desk",
-    "image": "",
+    "image": "./Images/lights.jpg",
     "rating": { "rate": 2.9, "count": 470 }
   },
   {
@@ -95,7 +95,7 @@
     "price": 4.99,
     "description": "",
     "category": "Desk",
-    "image": "",
+    "image": "./Images/mug.jpg",
     "rating": { "rate": 3.9, "count": 170 }
   }
 ]
