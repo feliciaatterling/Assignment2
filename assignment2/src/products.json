@@ -3,7 +3,6 @@
     "id": 1,
     "title": "Sony WH-1000XM4",
     "price": 399,
-    "description": "The perfect headphones for maximum focus, either if you want to blast music or just block out your friends talk.",
     "category": "Headphones",
     "image": "./Images/headphones.jpg",
     "rating": { "rate": 4.6, "count": 120 }
@@ -12,15 +11,14 @@
     "id": 2,
     "title": "Apple MacBook Pro",
     "price": 1599,
-    "description": "Apple 2023 MacBook Pro Laptop M3 chip with 8‑core CPU, 10‑core GPU: 14.2-inch Liquid Retina XDR Display, 8GB",
     "category": "Computers & Accesories",
     "image": "./Images/macbook.jpg",
     "rating": { "rate": 4.1, "count": 259 }
   },
   {
     "id": 3,
-    "title": "Screen",
-    "price": 55.99,
+    "title": "Monitor",
+    "price": 115,
     "description": "",
     "category": "Computers & Accesories",
     "image": "./Images/monitor(1).jpg",
@@ -37,7 +35,7 @@
   },
   {
     "id": 5,
-    "title": "Programming Book?",
+    "title": "Programming Book",
     "price": 20,
     "description": "",
     "category": "",
@@ -46,8 +44,8 @@
   },
   {
     "id": 6,
-    "title": "Cozy nerdy Hoody",
-    "price": 168,
+    "title": "Cozy Hoody",
+    "price": 68,
     "description": "",
     "category": "Clothing",
     "image": "./Images/hoodie.jpeg",
@@ -69,7 +67,7 @@
     "description": "",
     "category": "Computers & Accesories",
     "image": "./Images/ipad.jpg",
-    "rating": { "rate": 1.9, "count": 100 }
+    "rating": { "rate": 2.9, "count": 100 }
   },
   {
     "id": 9,
@@ -78,7 +76,7 @@
     "description": "",
     "category": "Desk",
     "image": "./Images/waterbottle.jpg",
-    "rating": { "rate": 3.3, "count": 203 }
+    "rating": { "rate": 4.3, "count": 203 }
   },
   {
     "id": 10,
